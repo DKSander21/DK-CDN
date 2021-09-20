@@ -1,3 +1,1 @@
-<script>
-  window.ub.form.validationRules.postcode.UKPostalCode = true;
-</script>
+window.ub.form.validationRules.postcode.UKPostalCode = true;
