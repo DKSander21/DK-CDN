@@ -1,3 +1,3 @@
 <script>
-  window.ub.form.validationRules.postcode.myCustomRule = true;
+  window.ub.form.validationRules.postcode.UKPostalCode = true;
 </script>
