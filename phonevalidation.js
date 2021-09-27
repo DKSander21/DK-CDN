@@ -1,4 +1,3 @@
-<script type="text/javascript">
 	// Global config for Data8 validation
 	var d8Validation = {
         apiKey: "ASWL-2NCE-HJTB-AH5N",
@@ -170,4 +169,3 @@
     jQuery(document).ready(function(){
       attachData8Validation();
     });
-</script>
